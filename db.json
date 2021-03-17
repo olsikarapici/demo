@@ -1,28 +1,14 @@
 {
-  "lendet": [
-    { "LendaID": 7, "EmerLende": "Matematike" },
-    { "LendaID": 8, "EmerLende": "Histori" },
-     { "LendaID": 9, "EmerLende": "Gjuhe Shqipe" },
-     { "LendaID": 10, "EmerLende": "Fizike 10" },
-     { "LendaID": 11, "EmerLende": "Kimi" },
-     { "LendaID": 12, "EmerLende": "Biologji 10" },
-     { "LendaID": 13, "EmerLende": "Histori 10" },
-     { "LendaID": 14, "EmerLende": "Gjeografi 10" },
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
   ],
-  "notat": [
-    { "NotaID": 1, "Nota": 7, "TemaMesimore":"Tema test 1", "Lenda": "Matematike" , "Kategoria": "Note me Goje (NG)" },
-    { "NotaID": 2, "Nota": 8,"TemaMesimore":"Tema test 2", "Lenda": "Matematike" , "Kategoria": "Note Portofoli (NP)" },
-    { "NotaID": 3, "Nota": 8,"TemaMesimore":"Tema test 3", "Lenda": "Matematike" , "Kategoria": "Note Test (NT)" },
-    { "NotaID": 4, "Nota": 10,"TemaMesimore":"Tema test 1", "Lenda": "Histori" , "Kategoria": "Note me Goje (NG)" },
-    { "NotaID": 5, "Nota": 9,"TemaMesimore":"Tema test 2", "Lenda": "Histori" , "Kategoria": "Note me Goje (NG)" },
-    { "NotaID": 6, "Nota": 10,"TemaMesimore":"Tema test 3", "Lenda": "Histori" , "Kategoria": "Note Portofoli (NP)" },
-    { "NotaID": 7, "Nota": 9,"TemaMesimore":"Tema test 4", "Lenda": "Histori" , "Kategoria": "Note Test (NT)" }
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "nxenes": {
-    "NxenesID": 434333,
-    "Emri": "Gers",
-    "Mbiemri": "Bardhi",
-    "KlasaID": 2,
-    "LoginID": 40
+  "profile": {
+    "name": "typicode"
   }
 }
