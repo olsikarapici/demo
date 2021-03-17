@@ -16,8 +16,7 @@
     { "NotaID": 4, "Nota": 10,"TemaMesimore":"Tema test 1", "Lenda": "Histori" , "Kategoria": "Note me Goje (NG)" },
     { "NotaID": 5, "Nota": 9,"TemaMesimore":"Tema test 2", "Lenda": "Histori" , "Kategoria": "Note me Goje (NG)" },
     { "NotaID": 6, "Nota": 10,"TemaMesimore":"Tema test 3", "Lenda": "Histori" , "Kategoria": "Note Portofoli (NP)" },
-    { "NotaID": 7, "Nota": 9,"TemaMesimore":"Tema test 4", "Lenda": "Histori" , "Kategoria": "Note Test (NT)" },
-
+    { "NotaID": 7, "Nota": 9,"TemaMesimore":"Tema test 4", "Lenda": "Histori" , "Kategoria": "Note Test (NT)" }
   ],
   "nxenes": {
     "NxenesID": 434333,
